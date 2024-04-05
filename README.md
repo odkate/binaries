@@ -1,4 +1,1 @@
-# binaries
-Склад бинарников
-
-Зеркало: https://maximoff.su/bin/
+https://maximoff.su/bin/
